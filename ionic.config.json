@@ -1,0 +1,7 @@
+{
+  "name": "tegbale-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
